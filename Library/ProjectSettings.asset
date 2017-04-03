@@ -550,7 +550,7 @@ PlayerSettings:
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
-    UNet: 0
+    UNet: 1
     Unity_Ads: 0
   cloudProjectId: e340b3b3-7829-478e-bec8-5e0762afbccc
   projectName: Shooting with Raycasts (1)
